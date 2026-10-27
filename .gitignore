@@ -1,0 +1,5 @@
+# portable python lives in the release zip, not in git
+**/python/
+*.zip
+__pycache__/
+*.pyc
